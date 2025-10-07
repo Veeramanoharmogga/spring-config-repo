@@ -1,0 +1,3 @@
+person:
+  healthMessage: "Backend call successful"
+  errorMessage: "Backend call failed"
